@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <title></title>
+    <link href="MyCSS.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .auto-style1 {
+            width: 704px;
+            vertical-align: top;
+        }
+    </style>
+</head>
+<body>
+
+    <%-- background="http://i1271.photobucket.com/albums/jj626/samath89/background2_zpsb2e66dbd.png"--%>
+
+    <div class="transbox">
+
+
+
+        <p>
+            <table style="width: 921px;align-content:center; vertical-align:top">
+                <tr>
+                    <td class="auto-style1">
+        <p class="mainTitle">Samath Scott</p>
+        <hr />
+        <p>
+            Cell: 1876-878-5540
+            <br />
+            Email: Samath_Scott@yahoo.com
+            <br />
+            <br />
+        <p style=" font-weight:normal">
+            My name is Samath Scott,
+            I grew up in the parish of St. Ann in a small community called Bamboo. I attended the St. Ann&#39;s Bay Basic School, St. Ann&#39;s Bay Primary School, York Castle High School, Brown&#39;s Town Community College and I am currently attending the University of the West Indies where I am pursuing a bachelor's degree in Computer Science. I am a Student/Computer Programmer With 7 year of Programming Experience. Proficient or familiar with a vast array of programming languages,
+            concepts and technologies, including: Java, JavaScript,Visual Basic, C#, CSS, HTML, XML, PHP, JQuery, Unity3D, SQL Server, Python, MySQL, C and C++. I am the founder/CEO of <a href="http://testing.sourcecodeera.com/Default.aspx">Source Code Era</a>. Source Code Era is a programming website where new and experience computer programmers can share source code, ask question and get help with programming problems. My goals after graduation is to create a successful company or work as a software engineer for Google or Microsoft.
+
+
+            </td>
+            <td style="vertical-align:top"><img style="height: 276px; width: 221px" src="http://www.sourcecodeera.com/images/profileavatar/profileimage.aspx?AccountID=1" /></td>
+            </tr>
+            </table>
+
+
+            <table style="width: 921px;align-content:center; vertical-align:top">
+                <tr>
+                    <td class="tborder" align="right" valign="top" style=" font-weight:bold">Education</td>
+                    <td>
+                        University of the West Indies<br />
+                        <br />
+                        Major: Computer Science<br />
+                        Minor: Psychology
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="tborder" align="right" valign="top">Skills</td>
+                    <td>
+                        Computer Skills:
+                        <br />
+                        Microsoft Office, Adobe Photo Shop, Programming(C++, Java, Visual Basic, Python, C & C#),<br />
+                        Internet Navigation, Social Media Sites and Email Systems&nbsp;<br />
+                        <br />
+                        Research Skills:<br />
+                        Critical Thinking, Analyse situations from multiple viewpoints
+                        <br />
+                        <br />
+                        Leadership:<br />
+                        Aility to lead, motivate and stimulate others to achieve goals and inspire change.
+                        <br />
+                        <br />
+
+                        Accurate: Careful, precise.
+                        <br />
+                        <br />
+                        Adaptable: Able to adapt to new surroundings; to make suitable change so as to fit new conditions. <br />
+                        <br />
+                        Alert: Watchful, wide awake, ready to act.
+                        <br />
+                        <br />
+                        Ambitious: Full of ambition, strong desire "to do" something.
+                        <br />
+                        <br />
+                        Amiable: Feeling and inspiring friendliness; lovable.
+                        <br />
+                        <br />
+                        Analytical: Employing analytic methods; separating things into their parts of elements
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="tborder" align="right" valign="top">Experience</td>
+                    <td>
+                        Nelson&#39;s Computer Service:<br />
+
+                        - Three years&#39; experience in program development and Internet marketing.<br />
+                        - Experience in organizational diagnosis and the design and facilitation of large-scale events and staff development activities.<br />
+                        - 3 years bringing clear, meaningful PC knowledge to technical and non-technical users.
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="tborder" align="right" valign="top">Hobbies</td>
+                    <td>
+                        Sports – Walking, Exercise, Running, Tennis, Bicycling, Swimming<br />
+                        Socializing – Community work, Church Activities, Volunteer Work
+                    </td>
+                </tr>
+                <tr>
+                    <td class="tborder" align="right" valign="top">Reference</td>
+                    <td>Avaiable on request</td>
+                </tr>
+
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+
+    </div>
+
+  
+</body>
+</html>
