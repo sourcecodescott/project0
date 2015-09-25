@@ -1,0 +1,35 @@
+.mainTitle {
+    font-size:80px;
+    font-family:Georgia;
+}
+
+div.transbox {
+    width: 1200px;
+    margin: 30px 50px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 1.0;
+    filter: alpha(opacity=60); 
+    align-content:center;
+}
+
+    
+
+div.transbox p {
+    margin: 30px 40px;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+.tborder {
+    border-style: solid;
+    border:none;
+    border-right:  thin  solid black;
+    font-weight:bold;
+    
+}
+
+.nobold{
+    font-weight:normal;
+}
